@@ -1,0 +1,1584 @@
+[
+    {
+        "productId": "21554",
+        "productName": "Camisa Listrada",
+        "brand": "ANIMALE",
+        "brandId": 2000000,
+        "brandImageUrl": null,
+        "linkText": "camisa-listrada-listra-dupla-azul-vitral-e-nata-24-01-1443-0004",
+        "productReference": "24.01.1443_0004",
+        "categoryId": "105",
+        "productTitle": "Camisa Listrada",
+        "metaTagDescription": "Peça que atravessa temporadas, a camisa de seda listrada branca e laranja tem mangas longas e shape solto. Combine com jeans skinny para um look chic.",
+        "releaseDate": "2017-01-01T00:00:00",
+        "clusterHighlights": {
+            "412": "liquidação"
+        },
+        "productClusters": {
+            "139": "TODOS",
+            "142": "sizebay",
+            "145": "mothers-day-black",
+            "149": "Animale6",
+            "166": "jaqueta-couro",
+            "187": "diadocliente",
+            "219": "Bestsellers",
+            "244": "prints",
+            "273": "tudo-cabine-jun3",
+            "279": "previewvr20",
+            "280": "tudo-cabine-corrigida1",
+            "285": "tudo-cabine-correcao-teste",
+            "286": "tudo-cabine-sempreview",
+            "289": "tudo-cabine-corrigida-2",
+            "306": "mulheres-inspiram",
+            "307": "print-battle",
+            "308": "retirada-elite-julho",
+            "309": "retirada-geral-julho",
+            "313": "special-july",
+            "319": "seda-jeans",
+            "322": "new-stripes",
+            "325": "seda-jeans-sarja",
+            "328": "colecao",
+            "330": "update-looks",
+            "331": "retirada-agosto",
+            "333": "seda+refs",
+            "346": "seda-couro",
+            "347": "seda-malha",
+            "348": "seda-malha-plano",
+            "352": "color-duo",
+            "354": "work-to-do",
+            "355": "alem-das-flores",
+            "358": "retirada-funcionário-out1",
+            "373": "classic-prints",
+            "374": "seda-malha",
+            "376": "seda-malha-plano",
+            "377": "seda-couro",
+            "378": "retirada-func-out2",
+            "389": "erro",
+            "390": "Black Friday",
+            "393": "black-friday-ate50",
+            "395": "cabine-black-friday",
+            "396": "retirada-dez1",
+            "399": "toda-colecao",
+            "408": "colecao",
+            "412": "liquidação",
+            "414": "seda-liqui",
+            "416": "liqui-prints",
+            "420": "liquidação-ver20"
+        },
+        "searchableClusters": {},
+        "categories": [
+            "/COLEÇÃO/CAMISA/CAMISA DE SEDA/",
+            "/COLEÇÃO/CAMISA/",
+            "/COLEÇÃO/",
+            "/COLEÇÃO/SEDA/"
+        ],
+        "categoriesIds": [
+            "/3/22/105/",
+            "/3/22/",
+            "/3/",
+            "/3/8/"
+        ],
+        "link": "https://www.animale.com.br/camisa-listrada-listra-dupla-azul-vitral-e-nata-24-01-1443-0004/p",
+        "Tipo de Produto": [
+            "Previewvr20",
+            "seda-Jeans",
+            "seda-Jeans-Sarja",
+            "update-Looks",
+            "Seda+refs",
+            "seda-Couro",
+            "seda-Malha",
+            "seda-Malha-Plano"
+        ],
+        "SALE": [
+            "SIM"
+        ],
+        "ID Coleção": [
+            "VER20"
+        ],
+        "Coleção Atual": [
+            "SIM"
+        ],
+        "Coleção": [
+            "ID Coleção",
+            "Coleção Atual"
+        ],
+        "Tabela de Medidas": [
+            "[\n{\"36\":\"\"},\n{\"38\":\"\"},\n{\"40\":\"\"},\n{\"42\":\"\"},\n{\"44\":\"\"}\n]"
+        ],
+        "Tamanho": [
+            "Tabela de Medidas"
+        ],
+        "Composição": [
+            "100% Seda"
+        ],
+        "allSpecifications": [
+            "Tipo de Produto",
+            "SALE",
+            "ID Coleção",
+            "Coleção Atual",
+            "Tabela de Medidas",
+            "Composição"
+        ],
+        "allSpecificationsGroups": [
+            "Tipo de Produto",
+            "Coleção",
+            "Tamanho",
+            "Composição"
+        ],
+        "description": "Peça que atravessa temporadas, a <a style=\"text-decoration: underline;display: initial;\" href=\"https://www.animale.com.br/colecao/camisa/camisa-de-seda?O=OrderByScoreDESC\">camisa de seda</a> listrada branca e laranja tem <b>mangas longas e shape solto</b>. Combine com <b>jeans skinny</b> para um look chic ou use com <b>calças de alfaiataria</b> para uma produção de trabalho.",
+        "items": [
+            {
+                "itemId": "85006",
+                "name": "Listra Dupla Azul Vitral e Nata - 36",
+                "nameComplete": "Camisa Listrada Listra Dupla Azul Vitral e Nata - 36",
+                "complementName": "Camisa Listrada",
+                "ean": "24011443000436",
+                "referenceId": [
+                    {
+                        "Key": "RefId",
+                        "Value": "24.01.1443_0004_1"
+                    }
+                ],
+                "measurementUnit": "un",
+                "unitMultiplier": 1.0000,
+                "modalType": null,
+                "isKit": false,
+                "images": [
+                    {
+                        "imageId": "769730",
+                        "imageLabel": "1",
+                        "imageTag": "<img src=\"~/arquivos/ids/769730-#width#-#height#/24011443_0004_1-CAMISA-LISTRADA.jpg?v=637021057888700000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_1-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/769730/24011443_0004_1-CAMISA-LISTRADA.jpg?v=637021057888700000",
+                        "imageText": "24011443_0004_1-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:23:08.8700000Z"
+                    },
+                    {
+                        "imageId": "770198",
+                        "imageLabel": "2",
+                        "imageTag": "<img src=\"~/arquivos/ids/770198-#width#-#height#/24011443_0004_2-CAMISA-LISTRADA.jpg?v=637021064009200000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_2-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/770198/24011443_0004_2-CAMISA-LISTRADA.jpg?v=637021064009200000",
+                        "imageText": "24011443_0004_2-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:33:20.9200000Z"
+                    },
+                    {
+                        "imageId": "770342",
+                        "imageLabel": "3",
+                        "imageTag": "<img src=\"~/arquivos/ids/770342-#width#-#height#/24011443_0004_3-CAMISA-LISTRADA.jpg?v=637021066730900000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_3-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/770342/24011443_0004_3-CAMISA-LISTRADA.jpg?v=637021066730900000",
+                        "imageText": "24011443_0004_3-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:37:53.0900000Z"
+                    },
+                    {
+                        "imageId": "770696",
+                        "imageLabel": "4",
+                        "imageTag": "<img src=\"~/arquivos/ids/770696-#width#-#height#/24011443_0004_4-CAMISA-LISTRADA.jpg?v=637021071377200000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_4-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/770696/24011443_0004_4-CAMISA-LISTRADA.jpg?v=637021071377200000",
+                        "imageText": "24011443_0004_4-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:45:37.7200000Z"
+                    },
+                    {
+                        "imageId": "770927",
+                        "imageLabel": "10",
+                        "imageTag": "<img src=\"~/arquivos/ids/770927-#width#-#height#/24011443_0004_10-CAMISA-LISTRADA.jpg?v=637021075012400000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_10-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/770927/24011443_0004_10-CAMISA-LISTRADA.jpg?v=637021075012400000",
+                        "imageText": "24011443_0004_10-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:51:41.2400000Z"
+                    }
+                ],
+                "Tamanho": [
+                    "36"
+                ],
+                "variations": [
+                    "Tamanho"
+                ],
+                "sellers": [
+                    {
+                        "sellerId": "1",
+                        "sellerName": "ANIMALE",
+                        "addToCartLink": "https://www.animale.com.br/checkout/cart/add?sku=85006&qty=1&seller=1&sc=1&price=38900&cv=6de619a5d5342f1e093a941b8e826996_&sc=1",
+                        "sellerDefault": true,
+                        "commertialOffer": {
+                            "DeliverySlaSamplesPerRegion": {
+                                "0": {
+                                    "DeliverySlaPerTypes": [],
+                                    "Region": null
+                                }
+                            },
+                            "Installments": [
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "American Express",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "American Express à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "American Express",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "American Express 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "American Express",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "American Express 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Visa",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Visa à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Visa",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Visa 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Visa",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Visa 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Diners",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Diners à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Diners",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Diners 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Diners",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Diners 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Mastercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Mastercard à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Mastercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Mastercard 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Mastercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Mastercard 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Hipercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Hipercard à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Hipercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Hipercard 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Hipercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Hipercard 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Elo",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Elo à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Elo",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Elo 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Elo",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Elo 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Visa Electron",
+                                    "PaymentSystemGroupName": "debitCardPaymentGroup",
+                                    "Name": "Visa Electron à vista"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Vale",
+                                    "PaymentSystemGroupName": "giftCardPaymentGroup",
+                                    "Name": "Vale à vista"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Maestro",
+                                    "PaymentSystemGroupName": "debitCardPaymentGroup",
+                                    "Name": "Maestro à vista"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Venda Direta Debito",
+                                    "PaymentSystemGroupName": "debitDirectSalePaymentGroup",
+                                    "Name": "Venda Direta Debito à vista"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Venda Direta Credito",
+                                    "PaymentSystemGroupName": "creditDirectSalePaymentGroup",
+                                    "Name": "Venda Direta Credito à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Venda Direta Credito",
+                                    "PaymentSystemGroupName": "creditDirectSalePaymentGroup",
+                                    "Name": "Venda Direta Credito 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Venda Direta Credito",
+                                    "PaymentSystemGroupName": "creditDirectSalePaymentGroup",
+                                    "Name": "Venda Direta Credito 3 vezes sem juros"
+                                }
+                            ],
+                            "DiscountHighLight": [],
+                            "GiftSkuIds": [],
+                            "Teasers": [],
+                            "BuyTogether": [],
+                            "ItemMetadataAttachment": [],
+                            "Price": 389.0,
+                            "ListPrice": 798.0,
+                            "PriceWithoutDiscount": 389.0,
+                            "RewardValue": 0.0,
+                            "PriceValidUntil": "2021-01-23T20:50:58.1210557Z",
+                            "AvailableQuantity": 2,
+                            "Tax": 0.0,
+                            "DeliverySlaSamples": [
+                                {
+                                    "DeliverySlaPerTypes": [],
+                                    "Region": null
+                                }
+                            ],
+                            "GetInfoErrorMessage": null,
+                            "CacheVersionUsedToCallCheckout": "6de619a5d5342f1e093a941b8e826996_"
+                        }
+                    }
+                ],
+                "Videos": [],
+                "estimatedDateArrival": null
+            },
+            {
+                "itemId": "85011",
+                "name": "Listra Dupla Azul Vitral e Nata - 38",
+                "nameComplete": "Camisa Listrada Listra Dupla Azul Vitral e Nata - 38",
+                "complementName": "Camisa Listrada",
+                "ean": "24011443000438",
+                "referenceId": [
+                    {
+                        "Key": "RefId",
+                        "Value": "24.01.1443_0004_2"
+                    }
+                ],
+                "measurementUnit": "un",
+                "unitMultiplier": 1.0000,
+                "modalType": null,
+                "isKit": false,
+                "images": [
+                    {
+                        "imageId": "769742",
+                        "imageLabel": "1",
+                        "imageTag": "<img src=\"~/arquivos/ids/769742-#width#-#height#/24011443_0004_1-CAMISA-LISTRADA.jpg?v=637021058015100000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_1-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/769742/24011443_0004_1-CAMISA-LISTRADA.jpg?v=637021058015100000",
+                        "imageText": "24011443_0004_1-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:23:21.5100000Z"
+                    },
+                    {
+                        "imageId": "770212",
+                        "imageLabel": "2",
+                        "imageTag": "<img src=\"~/arquivos/ids/770212-#width#-#height#/24011443_0004_2-CAMISA-LISTRADA.jpg?v=637021064246800000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_2-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/770212/24011443_0004_2-CAMISA-LISTRADA.jpg?v=637021064246800000",
+                        "imageText": "24011443_0004_2-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:33:44.6800000Z"
+                    },
+                    {
+                        "imageId": "770354",
+                        "imageLabel": "3",
+                        "imageTag": "<img src=\"~/arquivos/ids/770354-#width#-#height#/24011443_0004_3-CAMISA-LISTRADA.jpg?v=637021067078430000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_3-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/770354/24011443_0004_3-CAMISA-LISTRADA.jpg?v=637021067078430000",
+                        "imageText": "24011443_0004_3-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:38:27.8430000Z"
+                    },
+                    {
+                        "imageId": "770707",
+                        "imageLabel": "4",
+                        "imageTag": "<img src=\"~/arquivos/ids/770707-#width#-#height#/24011443_0004_4-CAMISA-LISTRADA.jpg?v=637021071643330000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_4-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/770707/24011443_0004_4-CAMISA-LISTRADA.jpg?v=637021071643330000",
+                        "imageText": "24011443_0004_4-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:46:04.3330000Z"
+                    },
+                    {
+                        "imageId": "770935",
+                        "imageLabel": "10",
+                        "imageTag": "<img src=\"~/arquivos/ids/770935-#width#-#height#/24011443_0004_10-CAMISA-LISTRADA.jpg?v=637021075108400000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_10-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/770935/24011443_0004_10-CAMISA-LISTRADA.jpg?v=637021075108400000",
+                        "imageText": "24011443_0004_10-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:51:50.8400000Z"
+                    }
+                ],
+                "Tamanho": [
+                    "38"
+                ],
+                "variations": [
+                    "Tamanho"
+                ],
+                "sellers": [
+                    {
+                        "sellerId": "1",
+                        "sellerName": "ANIMALE",
+                        "addToCartLink": "https://www.animale.com.br/checkout/cart/add?sku=85011&qty=1&seller=1&sc=1&price=38900&cv=6de619a5d5342f1e093a941b8e826996_&sc=1",
+                        "sellerDefault": true,
+                        "commertialOffer": {
+                            "DeliverySlaSamplesPerRegion": {
+                                "0": {
+                                    "DeliverySlaPerTypes": [],
+                                    "Region": null
+                                }
+                            },
+                            "Installments": [
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "American Express",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "American Express à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "American Express",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "American Express 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "American Express",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "American Express 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Visa",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Visa à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Visa",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Visa 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Visa",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Visa 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Diners",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Diners à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Diners",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Diners 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Diners",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Diners 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Mastercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Mastercard à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Mastercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Mastercard 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Mastercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Mastercard 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Hipercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Hipercard à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Hipercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Hipercard 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Hipercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Hipercard 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Elo",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Elo à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Elo",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Elo 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Elo",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Elo 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Visa Electron",
+                                    "PaymentSystemGroupName": "debitCardPaymentGroup",
+                                    "Name": "Visa Electron à vista"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Vale",
+                                    "PaymentSystemGroupName": "giftCardPaymentGroup",
+                                    "Name": "Vale à vista"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Maestro",
+                                    "PaymentSystemGroupName": "debitCardPaymentGroup",
+                                    "Name": "Maestro à vista"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Venda Direta Debito",
+                                    "PaymentSystemGroupName": "debitDirectSalePaymentGroup",
+                                    "Name": "Venda Direta Debito à vista"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Venda Direta Credito",
+                                    "PaymentSystemGroupName": "creditDirectSalePaymentGroup",
+                                    "Name": "Venda Direta Credito à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Venda Direta Credito",
+                                    "PaymentSystemGroupName": "creditDirectSalePaymentGroup",
+                                    "Name": "Venda Direta Credito 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Venda Direta Credito",
+                                    "PaymentSystemGroupName": "creditDirectSalePaymentGroup",
+                                    "Name": "Venda Direta Credito 3 vezes sem juros"
+                                }
+                            ],
+                            "DiscountHighLight": [],
+                            "GiftSkuIds": [],
+                            "Teasers": [],
+                            "BuyTogether": [],
+                            "ItemMetadataAttachment": [],
+                            "Price": 389.0,
+                            "ListPrice": 798.0,
+                            "PriceWithoutDiscount": 389.0,
+                            "RewardValue": 0.0,
+                            "PriceValidUntil": "2021-01-23T20:50:58.1222077Z",
+                            "AvailableQuantity": 1,
+                            "Tax": 0.0,
+                            "DeliverySlaSamples": [
+                                {
+                                    "DeliverySlaPerTypes": [],
+                                    "Region": null
+                                }
+                            ],
+                            "GetInfoErrorMessage": null,
+                            "CacheVersionUsedToCallCheckout": "6de619a5d5342f1e093a941b8e826996_"
+                        }
+                    }
+                ],
+                "Videos": [],
+                "estimatedDateArrival": null
+            },
+            {
+                "itemId": "85016",
+                "name": "Listra Dupla Azul Vitral e Nata - 40",
+                "nameComplete": "Camisa Listrada Listra Dupla Azul Vitral e Nata - 40",
+                "complementName": "Camisa Listrada",
+                "ean": "24011443000440",
+                "referenceId": [
+                    {
+                        "Key": "RefId",
+                        "Value": "24.01.1443_0004_3"
+                    }
+                ],
+                "measurementUnit": "un",
+                "unitMultiplier": 1.0000,
+                "modalType": null,
+                "isKit": false,
+                "images": [
+                    {
+                        "imageId": "769751",
+                        "imageLabel": "1",
+                        "imageTag": "<img src=\"~/arquivos/ids/769751-#width#-#height#/24011443_0004_1-CAMISA-LISTRADA.jpg?v=637021058149570000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_1-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/769751/24011443_0004_1-CAMISA-LISTRADA.jpg?v=637021058149570000",
+                        "imageText": "24011443_0004_1-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:23:34.9570000Z"
+                    },
+                    {
+                        "imageId": "770230",
+                        "imageLabel": "2",
+                        "imageTag": "<img src=\"~/arquivos/ids/770230-#width#-#height#/24011443_0004_2-CAMISA-LISTRADA.jpg?v=637021064534930000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_2-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/770230/24011443_0004_2-CAMISA-LISTRADA.jpg?v=637021064534930000",
+                        "imageText": "24011443_0004_2-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:34:13.4930000Z"
+                    },
+                    {
+                        "imageId": "770364",
+                        "imageLabel": "3",
+                        "imageTag": "<img src=\"~/arquivos/ids/770364-#width#-#height#/24011443_0004_3-CAMISA-LISTRADA.jpg?v=637021067343470000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_3-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/770364/24011443_0004_3-CAMISA-LISTRADA.jpg?v=637021067343470000",
+                        "imageText": "24011443_0004_3-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:38:54.3470000Z"
+                    },
+                    {
+                        "imageId": "770719",
+                        "imageLabel": "4",
+                        "imageTag": "<img src=\"~/arquivos/ids/770719-#width#-#height#/24011443_0004_4-CAMISA-LISTRADA.jpg?v=637021071879730000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_4-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/770719/24011443_0004_4-CAMISA-LISTRADA.jpg?v=637021071879730000",
+                        "imageText": "24011443_0004_4-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:46:27.9730000Z"
+                    },
+                    {
+                        "imageId": "770946",
+                        "imageLabel": "10",
+                        "imageTag": "<img src=\"~/arquivos/ids/770946-#width#-#height#/24011443_0004_10-CAMISA-LISTRADA.jpg?v=637021075195270000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_10-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/770946/24011443_0004_10-CAMISA-LISTRADA.jpg?v=637021075195270000",
+                        "imageText": "24011443_0004_10-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:51:59.5270000Z"
+                    }
+                ],
+                "Tamanho": [
+                    "40"
+                ],
+                "variations": [
+                    "Tamanho"
+                ],
+                "sellers": [
+                    {
+                        "sellerId": "1",
+                        "sellerName": "ANIMALE",
+                        "addToCartLink": "https://www.animale.com.br/checkout/cart/add?sku=85016&qty=1&seller=1&sc=1&price=38900&cv=6de619a5d5342f1e093a941b8e826996_&sc=1",
+                        "sellerDefault": true,
+                        "commertialOffer": {
+                            "DeliverySlaSamplesPerRegion": {
+                                "0": {
+                                    "DeliverySlaPerTypes": [],
+                                    "Region": null
+                                }
+                            },
+                            "Installments": [
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "American Express",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "American Express à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "American Express",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "American Express 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "American Express",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "American Express 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Visa",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Visa à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Visa",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Visa 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Visa",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Visa 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Diners",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Diners à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Diners",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Diners 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Diners",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Diners 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Mastercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Mastercard à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Mastercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Mastercard 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Mastercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Mastercard 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Hipercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Hipercard à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Hipercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Hipercard 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Hipercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Hipercard 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Elo",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Elo à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Elo",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Elo 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Elo",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Elo 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Visa Electron",
+                                    "PaymentSystemGroupName": "debitCardPaymentGroup",
+                                    "Name": "Visa Electron à vista"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Vale",
+                                    "PaymentSystemGroupName": "giftCardPaymentGroup",
+                                    "Name": "Vale à vista"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Maestro",
+                                    "PaymentSystemGroupName": "debitCardPaymentGroup",
+                                    "Name": "Maestro à vista"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Venda Direta Debito",
+                                    "PaymentSystemGroupName": "debitDirectSalePaymentGroup",
+                                    "Name": "Venda Direta Debito à vista"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Venda Direta Credito",
+                                    "PaymentSystemGroupName": "creditDirectSalePaymentGroup",
+                                    "Name": "Venda Direta Credito à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Venda Direta Credito",
+                                    "PaymentSystemGroupName": "creditDirectSalePaymentGroup",
+                                    "Name": "Venda Direta Credito 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Venda Direta Credito",
+                                    "PaymentSystemGroupName": "creditDirectSalePaymentGroup",
+                                    "Name": "Venda Direta Credito 3 vezes sem juros"
+                                }
+                            ],
+                            "DiscountHighLight": [],
+                            "GiftSkuIds": [],
+                            "Teasers": [],
+                            "BuyTogether": [],
+                            "ItemMetadataAttachment": [],
+                            "Price": 389.0,
+                            "ListPrice": 798.0,
+                            "PriceWithoutDiscount": 389.0,
+                            "RewardValue": 0.0,
+                            "PriceValidUntil": "2021-01-23T20:50:58.1569886Z",
+                            "AvailableQuantity": 2,
+                            "Tax": 0.0,
+                            "DeliverySlaSamples": [
+                                {
+                                    "DeliverySlaPerTypes": [],
+                                    "Region": null
+                                }
+                            ],
+                            "GetInfoErrorMessage": null,
+                            "CacheVersionUsedToCallCheckout": "6de619a5d5342f1e093a941b8e826996_"
+                        }
+                    }
+                ],
+                "Videos": [],
+                "estimatedDateArrival": null
+            },
+            {
+                "itemId": "85022",
+                "name": "Listra Dupla Azul Vitral e Nata - 42",
+                "nameComplete": "Camisa Listrada Listra Dupla Azul Vitral e Nata - 42",
+                "complementName": "Camisa Listrada",
+                "ean": "24011443000442",
+                "referenceId": [
+                    {
+                        "Key": "RefId",
+                        "Value": "24.01.1443_0004_4"
+                    }
+                ],
+                "measurementUnit": "un",
+                "unitMultiplier": 1.0000,
+                "modalType": null,
+                "isKit": false,
+                "images": [
+                    {
+                        "imageId": "769764",
+                        "imageLabel": "1",
+                        "imageTag": "<img src=\"~/arquivos/ids/769764-#width#-#height#/24011443_0004_1-CAMISA-LISTRADA.jpg?v=637021058320170000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_1-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/769764/24011443_0004_1-CAMISA-LISTRADA.jpg?v=637021058320170000",
+                        "imageText": "24011443_0004_1-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:23:52.0170000Z"
+                    },
+                    {
+                        "imageId": "770244",
+                        "imageLabel": "2",
+                        "imageTag": "<img src=\"~/arquivos/ids/770244-#width#-#height#/24011443_0004_2-CAMISA-LISTRADA.jpg?v=637021064875600000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_2-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/770244/24011443_0004_2-CAMISA-LISTRADA.jpg?v=637021064875600000",
+                        "imageText": "24011443_0004_2-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:34:47.5600000Z"
+                    },
+                    {
+                        "imageId": "770373",
+                        "imageLabel": "3",
+                        "imageTag": "<img src=\"~/arquivos/ids/770373-#width#-#height#/24011443_0004_3-CAMISA-LISTRADA.jpg?v=637021067636870000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_3-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/770373/24011443_0004_3-CAMISA-LISTRADA.jpg?v=637021067636870000",
+                        "imageText": "24011443_0004_3-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:39:23.6870000Z"
+                    },
+                    {
+                        "imageId": "770735",
+                        "imageLabel": "4",
+                        "imageTag": "<img src=\"~/arquivos/ids/770735-#width#-#height#/24011443_0004_4-CAMISA-LISTRADA.jpg?v=637021072211100000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_4-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/770735/24011443_0004_4-CAMISA-LISTRADA.jpg?v=637021072211100000",
+                        "imageText": "24011443_0004_4-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:47:01.1100000Z"
+                    },
+                    {
+                        "imageId": "770954",
+                        "imageLabel": "10",
+                        "imageTag": "<img src=\"~/arquivos/ids/770954-#width#-#height#/24011443_0004_10-CAMISA-LISTRADA.jpg?v=637021075272600000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_10-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/770954/24011443_0004_10-CAMISA-LISTRADA.jpg?v=637021075272600000",
+                        "imageText": "24011443_0004_10-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:52:07.2600000Z"
+                    }
+                ],
+                "Tamanho": [
+                    "42"
+                ],
+                "variations": [
+                    "Tamanho"
+                ],
+                "sellers": [
+                    {
+                        "sellerId": "1",
+                        "sellerName": "ANIMALE",
+                        "addToCartLink": "https://www.animale.com.br/checkout/cart/add?sku=85022&qty=1&seller=1&sc=1&price=38900&cv=6de619a5d5342f1e093a941b8e826996_&sc=1",
+                        "sellerDefault": true,
+                        "commertialOffer": {
+                            "DeliverySlaSamplesPerRegion": {
+                                "0": {
+                                    "DeliverySlaPerTypes": [],
+                                    "Region": null
+                                }
+                            },
+                            "Installments": [
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "American Express",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "American Express à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "American Express",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "American Express 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "American Express",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "American Express 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Visa",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Visa à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Visa",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Visa 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Visa",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Visa 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Diners",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Diners à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Diners",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Diners 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Diners",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Diners 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Mastercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Mastercard à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Mastercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Mastercard 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Mastercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Mastercard 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Hipercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Hipercard à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Hipercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Hipercard 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Hipercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Hipercard 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Elo",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Elo à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Elo",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Elo 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Elo",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Elo 3 vezes sem juros"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Visa Electron",
+                                    "PaymentSystemGroupName": "debitCardPaymentGroup",
+                                    "Name": "Visa Electron à vista"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Vale",
+                                    "PaymentSystemGroupName": "giftCardPaymentGroup",
+                                    "Name": "Vale à vista"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Maestro",
+                                    "PaymentSystemGroupName": "debitCardPaymentGroup",
+                                    "Name": "Maestro à vista"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Venda Direta Debito",
+                                    "PaymentSystemGroupName": "debitDirectSalePaymentGroup",
+                                    "Name": "Venda Direta Debito à vista"
+                                },
+                                {
+                                    "Value": 389.0,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Venda Direta Credito",
+                                    "PaymentSystemGroupName": "creditDirectSalePaymentGroup",
+                                    "Name": "Venda Direta Credito à vista"
+                                },
+                                {
+                                    "Value": 194.5,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 2,
+                                    "PaymentSystemName": "Venda Direta Credito",
+                                    "PaymentSystemGroupName": "creditDirectSalePaymentGroup",
+                                    "Name": "Venda Direta Credito 2 vezes sem juros"
+                                },
+                                {
+                                    "Value": 129.66,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 389.0,
+                                    "NumberOfInstallments": 3,
+                                    "PaymentSystemName": "Venda Direta Credito",
+                                    "PaymentSystemGroupName": "creditDirectSalePaymentGroup",
+                                    "Name": "Venda Direta Credito 3 vezes sem juros"
+                                }
+                            ],
+                            "DiscountHighLight": [],
+                            "GiftSkuIds": [],
+                            "Teasers": [],
+                            "BuyTogether": [],
+                            "ItemMetadataAttachment": [],
+                            "Price": 389.0,
+                            "ListPrice": 798.0,
+                            "PriceWithoutDiscount": 389.0,
+                            "RewardValue": 0.0,
+                            "PriceValidUntil": "2021-01-23T20:50:58.0884181Z",
+                            "AvailableQuantity": 1,
+                            "Tax": 0.0,
+                            "DeliverySlaSamples": [
+                                {
+                                    "DeliverySlaPerTypes": [],
+                                    "Region": null
+                                }
+                            ],
+                            "GetInfoErrorMessage": null,
+                            "CacheVersionUsedToCallCheckout": "6de619a5d5342f1e093a941b8e826996_"
+                        }
+                    }
+                ],
+                "Videos": [],
+                "estimatedDateArrival": null
+            },
+            {
+                "itemId": "85027",
+                "name": "Listra Dupla Azul Vitral e Nata - 44",
+                "nameComplete": "Camisa Listrada Listra Dupla Azul Vitral e Nata - 44",
+                "complementName": "Camisa Listrada",
+                "ean": "24011443000444",
+                "referenceId": [
+                    {
+                        "Key": "RefId",
+                        "Value": "24.01.1443_0004_5"
+                    }
+                ],
+                "measurementUnit": "un",
+                "unitMultiplier": 1.0000,
+                "modalType": null,
+                "isKit": false,
+                "images": [
+                    {
+                        "imageId": "769775",
+                        "imageLabel": "1",
+                        "imageTag": "<img src=\"~/arquivos/ids/769775-#width#-#height#/24011443_0004_1-CAMISA-LISTRADA.jpg?v=637021058531670000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_1-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/769775/24011443_0004_1-CAMISA-LISTRADA.jpg?v=637021058531670000",
+                        "imageText": "24011443_0004_1-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:24:13.1670000Z"
+                    },
+                    {
+                        "imageId": "770257",
+                        "imageLabel": "2",
+                        "imageTag": "<img src=\"~/arquivos/ids/770257-#width#-#height#/24011443_0004_2-CAMISA-LISTRADA.jpg?v=637021065122400000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_2-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/770257/24011443_0004_2-CAMISA-LISTRADA.jpg?v=637021065122400000",
+                        "imageText": "24011443_0004_2-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:35:12.2400000Z"
+                    },
+                    {
+                        "imageId": "770384",
+                        "imageLabel": "3",
+                        "imageTag": "<img src=\"~/arquivos/ids/770384-#width#-#height#/24011443_0004_3-CAMISA-LISTRADA.jpg?v=637021067873230000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_3-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/770384/24011443_0004_3-CAMISA-LISTRADA.jpg?v=637021067873230000",
+                        "imageText": "24011443_0004_3-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:39:47.3230000Z"
+                    },
+                    {
+                        "imageId": "770752",
+                        "imageLabel": "4",
+                        "imageTag": "<img src=\"~/arquivos/ids/770752-#width#-#height#/24011443_0004_4-CAMISA-LISTRADA.jpg?v=637021072589300000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_4-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/770752/24011443_0004_4-CAMISA-LISTRADA.jpg?v=637021072589300000",
+                        "imageText": "24011443_0004_4-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:47:38.9300000Z"
+                    },
+                    {
+                        "imageId": "770973",
+                        "imageLabel": "10",
+                        "imageTag": "<img src=\"~/arquivos/ids/770973-#width#-#height#/24011443_0004_10-CAMISA-LISTRADA.jpg?v=637021075416570000\" width=\"#width#\" height=\"#height#\" alt=\"24011443_0004_10-CAMISA-LISTRADA\" id=\"\" />",
+                        "imageUrl": "https://lojaanimale.vteximg.com.br/arquivos/ids/770973/24011443_0004_10-CAMISA-LISTRADA.jpg?v=637021075416570000",
+                        "imageText": "24011443_0004_10-CAMISA-LISTRADA",
+                        "imageLastModified": "2019-08-22T21:52:21.6570000Z"
+                    }
+                ],
+                "Tamanho": [
+                    "44"
+                ],
+                "variations": [
+                    "Tamanho"
+                ],
+                "sellers": [
+                    {
+                        "sellerId": "1",
+                        "sellerName": "ANIMALE",
+                        "addToCartLink": "https://www.animale.com.br/checkout/cart/add?sku=85027&qty=1&seller=1&sc=1&price=0&cv=6de619a5d5342f1e093a941b8e826996_&sc=1",
+                        "sellerDefault": true,
+                        "commertialOffer": {
+                            "DeliverySlaSamplesPerRegion": {},
+                            "Installments": [],
+                            "DiscountHighLight": [],
+                            "GiftSkuIds": [],
+                            "Teasers": [],
+                            "BuyTogether": [],
+                            "ItemMetadataAttachment": [],
+                            "Price": 0.0,
+                            "ListPrice": 0.0,
+                            "PriceWithoutDiscount": 0.0,
+                            "RewardValue": 0.0,
+                            "PriceValidUntil": null,
+                            "AvailableQuantity": 0,
+                            "Tax": 0.0,
+                            "DeliverySlaSamples": [],
+                            "GetInfoErrorMessage": "Code: withoutPriceFulfillment Status:error Message: O item Camisa Listrada Listra Dupla Azul Vitral e Nata - 44 não está mais disponível",
+                            "CacheVersionUsedToCallCheckout": "6de619a5d5342f1e093a941b8e826996_"
+                        }
+                    }
+                ],
+                "Videos": [],
+                "estimatedDateArrival": null
+            }
+        ],
+        "skuSpecifications": [
+            {
+                "field": {
+                    "id": 19,
+                    "name": "Tamanho",
+                    "isActive": true,
+                    "position": 1,
+                    "type": "Radio"
+                },
+                "values": [
+                    {
+                        "id": "58",
+                        "name": "36",
+                        "position": 20
+                    },
+                    {
+                        "id": "59",
+                        "name": "38",
+                        "position": 22
+                    },
+                    {
+                        "id": "60",
+                        "name": "40",
+                        "position": 24
+                    },
+                    {
+                        "id": "61",
+                        "name": "42",
+                        "position": 25
+                    },
+                    {
+                        "id": "62",
+                        "name": "44",
+                        "position": 26
+                    }
+                ]
+            }
+        ]
+    }
+]
