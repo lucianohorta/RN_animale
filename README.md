@@ -2,13 +2,20 @@
 Animale Mobile App
 
 
-*Obs.: Não feito ainda:*
-		- Componentização(separar páginas em arquivos/módulos, assim como os estilos);
-		- Não usei o Axios (por enquanto o Fetch padrão do RN);
-		- Mostrar os dados do JSON na Flatlist (dinamicamente) - Flatlist está comentado por enquanto mas já exibe no console os dados
+*Obs.: Não feito ainda:*<br/>
+		- Componentização(separar páginas em arquivos/módulos, assim como os estilos);<br/>
+		- Não usei o Axios (por enquanto utilizando o Fetch padrão do RN);<br/>
+		- Mostrar os dados do JSON na Flatlist (dinamicamente) - Flatlist está comentado por enquanto mas já exibe no console alguns dados (falta inserir nos locais corretos)<br/>
+
+<br/><br/>
 
 
+**COMO RODAR O PROJETO:**
 
+npm i ou yarn
+
+
+**DEPENDÊNCIAS:**
 
 - Bottom tab navigation: 
 yarn add @react-navigation/bottom-tabs
