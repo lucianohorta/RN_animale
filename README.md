@@ -9,12 +9,16 @@ Animale Mobile App
 
 <br/><br/>
 
+**VERSÕES UTILIZADAS:** <br />
+"expo": "~38.0.8",<br />
+"react-native": "https://github.com/expo/react-native/archive/sdk-38.0.2.tar.gz",
+<br /><br />
 
 **COMO RODAR O PROJETO:**
 
 npm i ou yarn
 
-
+<br /><br />
 **DEPENDÊNCIAS:**
 
 - Bottom tab navigation: 
