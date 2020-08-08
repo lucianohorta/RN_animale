@@ -1,18 +1,17 @@
 import React, { useState } from 'react';
-import { SafeAreaView, View, Text, StyleSheet, Image, ImageBackground, ActivityIndicator, Dimensions, ScrollView, TouchableOpacity } from 'react-native';
+import { SafeAreaView, View, Text, StyleSheet, Image, ImageBackground, ActivityIndicator, Dimensions, ScrollView, TouchableOpacity, TouchableWithoutFeedback } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import styled from 'styled-components/native';
+import {BannerTitle, BannerSubTitle, BannerBtn, ShopNowText, IconBagContainer, IconBag, MainContent, HeadersHome, H2, VerTudoBtn, VerTudoBtnText, HotTrends, Jaquetas, ScrollViewContent, ShopNowContainer_Thumb, ShopNowText_Thumb, NewInFooter} from './assets/css/style.js';
 import Constants from "expo-constants";
-import axios from 'axios';
-import { FlatList } from 'react-native-gesture-handler';
+// import axios from 'axios';
+// import { FlatList } from 'react-native-gesture-handler';
+
 
 // Fonts:
 import { AppLoading } from 'expo';
-import { useFonts } from 'expo-font';
 import * as Font from 'expo-font';
-
-
 const getFonts = () => Font.loadAsync({
   'Didot': require('./assets/fonts/Didot-Bold.ttf'),
   'Futura-Medium': require('./assets/fonts/Futura-Medium.ttf'),
@@ -22,173 +21,31 @@ const getFonts = () => Font.loadAsync({
 const width = Dimensions.get('screen').width;
 const height= Dimensions.get('screen').height;
 
-
-
-const BannerTitle = styled.Text`
-  font-family: 'Didot-Bold';
-  font-size: 28px;
-  color: #FFFFFF;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  bottom: 255px;
-  margin-left: auto;
-  margin-right: auto;
-  left: 0;
-  right: 0;
-  text-align: center; 
-  letter-spacing: 6.67px;
-`;
-
-const BannerSubTitle = styled.Text`
-  font-family: 'Didot-Bold';
-  font-size: 40px;
-  color: #FFFFFF;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  bottom: 200px;
-  margin-left: auto;
-  margin-right: auto;
-  left: 0;
-  right: 0;
-  text-align: center;
-  letter-spacing: 2.81px;
-`;
-
-const BannerBtn = styled.TouchableOpacity`
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  bottom: 100px;
-  margin-left: auto;
-  margin-right: auto;
-  left: 0;
-  right: 0;
-  padding: 20px;
-  border: 1px solid #FFF;
-  width: 190px;
-  height: 12px
-`;
-
-const ShopNowText = styled.Text`
-  font-family: 'Futura-Medium';
-  font-size: 16px;
-  color: #FFFFFF;
-`;
-
-const IconBagContainer = styled.TouchableOpacity`
-  position: absolute;
-  top: 40px;
-  right: 30px;
-`;
-
-const IconBag = styled.Image`
-  width: 24px;
-  height: 24px;
-`;
-
-const MainContent = styled.View`
-  margin-bottom: 20px
-`;
-
-const HeadersHome = styled.Text`
-  display: flex;
-  flex: 1;
-  justify-content: space-between;
-  flex-direction: row;
-  margin-bottom: 10px;
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-top: 50px;
-  margin-bottom: 20px
-`;
-
-const H2 = styled.Text`
-  font-family: 'Futura-Medium';
-  font-size: 16px;
-  color: #000000;
-  letter-spacing: 1.08px;
-`;
-
-const VerTudoBtn = styled.TouchableOpacity`
-  display: flex;
-`;
-
-const VerTudoBtnText = styled.Text`
-  font-family: 'Futura-Book';
-  font-size: 16px;
-  color: #000000;
-`;
-
-const HotTrends = styled.Text`
-  font-family: 'Futura-Medium';
-  font-size: 20px;
-  letter-spacing: 1.4px;
-  color: #FFFFFF;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  bottom: 125px;
-  margin-left: auto;
-  margin-right: auto;
-  left: 0;
-  right: 0;
-  text-align: center; 
-`;
-
-const Jaquetas = styled.Text`
-  font-family: 'Futura-Medium';
-  font-size: 20px;
-  letter-spacing: 1.4px;
-  color: #FFFFFF;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  bottom: 125px;
-  margin-left: auto;
-  margin-right: auto;
-  left: 0;
-  right: 0;
-  text-align: center; 
-`;
-
-const ScrollViewContent = styled.View`
-  margin-left: 20px;
-`;
-
-const ShopNowContainer_Thumb = styled.TouchableOpacity`
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  bottom: 75px;
-  margin-left: auto;
-  margin-right: auto;
-  left: 0;
-  right: 0;
-  padding: 14px;
-  border: 1px solid #FFF;
-  width: 140px;
-  height: 12px
-`;
-
-const ShopNowText_Thumb = styled.Text`
-  font-family: 'Futura-Medium';
-  font-size: 16px;
-  color: #FFFFFF;
-`;
-
-const NewInFooter = styled.View`
-  margin-top: 60px;
-`;
+const localJson = require('./data/products.json');
 
 function InicioScreen() {
+
+  const Product = ({title,image,price,onPress}) => {
+    return <>
+      <TouchableWithoutFeedback onPress={onPress}>
+        <View style={{flexDirection: 'column', paddingRight: 10, marginTop: 30}}>
+
+          <Image style={{ height: 360, width: 270, resizeMode: 'contain'}} source={{uri: image, }}/>
+
+          <View style={{paddingHorizontal: 20, paddingVertical: 10}}>
+            <Text style={{color:'grey',fontFamily:'Futura Bk BT',fontSize:13,width:220,paddingVertical:4}}>
+              {title}
+            </Text>
+            <Text style={{fontFamily: 'Futura Bk BT', fontWeight: 'bold'}}>
+              {price}
+            </Text>
+          </View>
+
+        </View>
+      </TouchableWithoutFeedback>
+    </>
+  } 
+
   return (
     
     <View style={{flex: 1}}>
@@ -289,6 +146,25 @@ function InicioScreen() {
 
 
 
+            <ScrollView horizontal={true} showsHorizontalScrollIndicator={false}>
+            <View style={{flexDirection: 'row', justifyContent: 'flex-start',  }}>
+            {
+                localJson.slice(0,10).map((item)=> {
+                    return <Product 
+                    title={item.productName} 
+                    image={item.items[0].images[0].imageUrl} 
+                    price={`R$ ${item.items[0].sellers[0].commertialOffer.Price}`}
+                    onPress={()=>{
+                        this.props.navigation.navigate('Product', item)
+                        this.setViewedProduct(item)
+                    }}
+                    />
+                })
+            }
+            </View>
+            </ScrollView>
+
+
 
           </MainContent>
         
@@ -360,13 +236,11 @@ class App extends React.Component {
   }
   
   componentDidMount() {
-    fetch('https://raw.githubusercontent.com/lucianohorta/jsontest/master/products.json')
-      .then(resposta => resposta.json())
-
-      .then(json => 
-        this.setState({produtos: json}));
-
-        // console.log(json)
+    // fetch('https://raw.githubusercontent.com/lucianohorta/jsontest/master/products.json')
+    //   .then(resposta => resposta.json())
+    //   .then(json => 
+    //     this.setState({produtos: json}));
+        // usando localJson pra importar json localmente no lugar disso /\
   }
 
   render() {
@@ -463,22 +337,6 @@ class App extends React.Component {
                       }}
                     />
                   </Tab.Navigator>
-
-
-
-                  <View style={{ flex: 1, paddingTop: 20 }}>
-                      <FlatList
-                        data={this.state.produtos} 
-                        renderItem={   ({item}) =>   
-                          <Text> {item.productName} - 
-                          {item.items[0].nameComplete} - 
-                          {/* {item.items[0].sellers[0].commertialOffer.Installments[0].Value}  */}
-                          </Text>                    
-                        }
-                        keyExtractor={item => String(item.id)}
-                      />
-                  </View>
-
 
                 </SafeAreaView>
             </NavigationContainer>
