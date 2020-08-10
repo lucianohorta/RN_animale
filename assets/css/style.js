@@ -73,7 +73,7 @@ export const IconBag = styled.Image`
 `;
 
 export const MainContent = styled.View`
-  margin-bottom: 20px
+  margin-bottom: 0px
 `;
 
 export const HeadersHome = styled.Text`
@@ -167,4 +167,19 @@ export const ShopNowText_Thumb = styled.Text`
 
 export const NewInFooter = styled.View`
   margin-top: 60px;
+`;
+
+export const Searchbar = styled.View`
+  flex-direction: row;
+  padding-bottom: 10px; 
+  margin-left: 20px; 
+  margin-right: 20px; 
+  margin-top: 20px; 
+  position: absolute;
+  top: 30;
+  width: 90%
+`;
+
+export const Categorias = styled.Image`
+  width: 90%;
 `;
