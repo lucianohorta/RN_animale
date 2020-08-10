@@ -1,3 +1,5 @@
+![App Preview](https://github.com/lucianohorta/RN_animale/blob/master/assets/img/preview.gif)
+
 # RN_animale
 Animale Mobile App
 
